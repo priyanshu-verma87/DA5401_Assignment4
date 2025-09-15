@@ -6,7 +6,7 @@
 
 ---
 
-## 📌 Project Overview  
+## Project Overview  
 
 This notebook demonstrates the application of a **Gaussian Mixture Model (GMM)-based synthetic sampling approach** for handling severe class imbalance in the context of **credit card fraud detection**.  
 
@@ -16,14 +16,14 @@ The main deliverable is a Jupyter Notebook (`DA5401_Assignment_4.ipynb`) that wa
 
 ---
 
-## 📂 Files in this Repository  
+## Files in this Repository  
 
 - `DA5401_Assignment_4.ipynb` — main notebook (completed assignment).  
 - `README.md` — this file.  
 
 ---
 
-## 📝 Notebook Structure  
+## Notebook Structure  
 
 The notebook is structured into the following logical sections:  
 
@@ -37,7 +37,7 @@ The notebook is structured into the following logical sections:
 
 ---
 
-## 📊 Results  
+## Results  
 
 - **Baseline Logistic Regression Performance:**  
     - High precision (≈0.85)  
@@ -53,7 +53,7 @@ The notebook is structured into the following logical sections:
 
 ---
 
-## ⚙️ Requirements  
+## Requirements  
 
 Recommended Python environment:  
 
